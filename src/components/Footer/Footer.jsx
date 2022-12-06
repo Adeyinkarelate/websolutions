@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className='mt-4' >
       <Flex w="full" py={'4'} pt={'8'} alignItems="center" justifyContent={"center"} >
         <Text fontSize={'md'} textAlign="center">
-          Copyright &copy; <span>{`${today.getFullYear()}`}</span> reauthenticateserver
+          Copyright &copy; <span>{`${today.getFullYear()}`}</span> Websolutionserver
         </Text>
       </Flex>
     </footer>

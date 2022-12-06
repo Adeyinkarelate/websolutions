@@ -10,7 +10,7 @@ export default function index() {
   const features = [
     {
       icon: SiAuth0,
-      title: 'ReAuthenticate',
+      title: 'Websolutions',
       button: 'Connect Wallet',
     },
     {
